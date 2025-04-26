@@ -1590,17 +1590,17 @@
       <links>
         <slidelink slideid="_player.5dvd3K4kky6" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5dvd3K4kky6.6qvbMbAgHQ8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5dvd3K4kky6.693kHglohp8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5dvd3K4kky6.5uk8AcdM2M6" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5dvd3K4kky6.6BL3JM4Tb2F" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5dvd3K4kky6.6qvbMbAgHQ8" displaytext="awal" expand="false" type="slide" />
+            <slidelink slideid="_player.5dvd3K4kky6.693kHglohp8" displaytext="petunjuk" expand="false" type="slide" />
+            <slidelink slideid="_player.5dvd3K4kky6.5uk8AcdM2M6" displaytext="login" expand="false" type="slide" />
+            <slidelink slideid="_player.5dvd3K4kky6.634w5JnJfHQ" displaytext="login to home" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5dgrHWjxhXI" displaytext="pendahuluan" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5dgrHWjxhXI.6GNs5w797UG" displaytext="pendahuluan1" expand="false" type="slide" />
-            <slidelink slideid="_player.5dgrHWjxhXI.6fJbVLlZH0F" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5dgrHWjxhXI.5Vuxe1icNXG" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgrHWjxhXI.6fJbVLlZH0F" displaytext="pendahuluan2" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgrHWjxhXI.5Vuxe1icNXG" displaytext="pendahuluan3" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6Te7sxB3E6I" displaytext="peta konsep" expand="true" type="slide">
@@ -1626,7 +1626,6 @@
             <slidelink slideid="_player.5ko8RhMtm2Z.6JUZ5Ne4tw6" displaytext="M8B" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="kuis" expand="true" type="slide" />
         <slidelink slideid="_player.6dd04X0BVBP" displaytext="latihan" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6dd04X0BVBP.6dovBrlLFhA" displaytext="latihan" expand="false" type="slide" />
@@ -1653,7 +1652,7 @@
         </slidelink>
         <slidelink slideid="_player.6F1K3gMdFV2" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6F1K3gMdFV2.5ufDFe9cyBR" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6F1K3gMdFV2.5ufDFe9cyBR" displaytext="menu" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

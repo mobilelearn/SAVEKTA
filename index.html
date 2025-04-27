@@ -37,7 +37,7 @@
       aid: 'aid|a8c6dc17-a934-47ba-af76-760281a2e4d2',
       cid: 'ad110f8a-3a95-45e6-a440-feb27dc00fda',
       playerVersion: '3.97.34031.0',
-      publishTimestamp: '2025-04-27T13:42:46.4699804Z',
+      publishTimestamp: '2025-04-27T13:56:15.9303139Z',
       maxIosVideoElements: 10,
       connectionSettings: { message: 'You%20are%20offline.%20Trying%20to%20reconnect...', useDarkTheme: false, mode: 'disabled' },
       hasFeature: function(feature) {
@@ -461,9 +461,32 @@
     }
   </script>
 
-  
+<script>
+    // Fungsi untuk memasukkan halaman ke mode fullscreen
+    function enterFullscreen() {
+        const doc = document.documentElement;
+        if (doc.requestFullscreen) {
+            doc.requestFullscreen();
+        } else if (doc.mozRequestFullScreen) { // Firefox
+            doc.mozRequestFullScreen();
+        } else if (doc.webkitRequestFullscreen) { // Chrome, Safari, Opera
+            doc.webkitRequestFullscreen();
+        } else if (doc.msRequestFullscreen) { // IE/Edge
+            doc.msRequestFullscreen();
+        }
+    }
+
+    // Fungsi untuk memulai fullscreen setelah halaman dimuat
+    window.onload = function() {
+        setTimeout(function() {
+            enterFullscreen(); // Memaksa fullscreen setelah 1 detik
+        }, 1000); // Penundaan 1 detik untuk memastikan halaman dimuat sepenuhnya
+    }
+</script>  
 
   <link rel="stylesheet" href="html5/data/css/output.min.css" data-noprefix/>
 </body>
 <script src="html5/lib/scripts/bootstrapper.min.js"></script>
+
+<audio src="BgMusik.mp3" id="bgSong" preload="auto" autoplay loop></audio>
 </html>

@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6FIxuoOPFlY":
+      case "62pLurq4vVC":
         Script1();
         break;
-      case "6TUP6tipHLt":
+      case "5o5uDQU3fhO":
         Script2();
         break;
   }

@@ -1588,7 +1588,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5dvd3K4kky6" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5dvd3K4kky6" displaytext="Login" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5dvd3K4kky6.6qvbMbAgHQ8" displaytext="awal" expand="false" type="slide" />
             <slidelink slideid="_player.5dvd3K4kky6.693kHglohp8" displaytext="petunjuk" expand="false" type="slide" />
@@ -1650,7 +1650,7 @@
             <slidelink slideid="_player.6kRT19HaDuC.61IyDDX8AVl" displaytext="pengembang" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6F1K3gMdFV2" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6F1K3gMdFV2" displaytext="Home" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6F1K3gMdFV2.5ufDFe9cyBR" displaytext="menu" expand="false" type="slide" />
           </links>

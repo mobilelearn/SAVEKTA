@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1462,7 +1462,6 @@
       <string id="closed_captions">Captions</string>
       <string id="closed_captions_tip">Toggle captions</string>
       <string id="closedcaptions_shortcut">Toggle closed captions</string>
-      <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="definition">Definition</string>
@@ -1574,6 +1573,7 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1648,6 +1648,21 @@
         <slidelink slideid="_player.6kRT19HaDuC" displaytext="pengembang" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6kRT19HaDuC.61IyDDX8AVl" displaytext="pengembang" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5fXY8Wokhes" displaytext="kuis1" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5fXY8Wokhes.6Ac57upUeV4" displaytext="kuis" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6BVUfDpaEnQ" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6EWcTGHgwVN" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6j9urkcQhyK" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6OnLQO8h1wx" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6eQPHMAn8KS" displaytext="Nilai dari v + w adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.5hdgGtjUCn4" displaytext="Misalkan vektor p= 2i +3j + 4k dan q= 4i + 2j + 5k. Maka p+q adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.5ytysf44J4g" displaytext="Nilai dari v – a adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.6DpGrJ55tJw" displaytext="Diketahui lal= 8 &amp;amp; lbl= 4 dan sudut diantara vektor a dan vektor b adalah 90 derajat.  Tentukan nilai a. b!" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.5hd5RPBgmG3" displaytext="Misal v= 3i+4j+3k dan b= i-2j-2k, maka b+ 2v adalah…" expand="false" type="slide" />
+            <slidelink slideid="_player.5fXY8Wokhes.5n7mQw4xfzM" displaytext="Misalnya a= 3i+4j, maka 5a adalah…" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6F1K3gMdFV2" displaytext="Home" expand="true" type="slide">
